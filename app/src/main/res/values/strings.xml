@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">Crypto 101</string>
+    <string name="title_btc">BTC</string>
+    <string name="title_eth">ETH</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array
+        name="eth_currencies">
+        <item>Bitcoin</item>
+        <item>USA Dollar</item>
+        <item>Australian Dollar</item>
+        <item>Canadian Dollar</item>
+        <item>Swiss Franc</item>
+        <item>Japanese Yen</item>
+        <item>New Zealand Dollar</item>
+        <item>Euro</item>
+        <item>Great Britain Pound</item>
+        <item>Swedish Krona</item>
+        <item>Singapore Dollar</item>
+        <item>Hong Kong Dollar</item>
+        <item>Mexican Peso</item>
+        <item>Russian Ruble</item>
+        <item>South Africa Rand</item>
+        <item>Chinese Offshore Yuan</item>
+        <item>Chinese Yuan</item>
+        <item>Indian Rupee</item>
+        <item>Naira</item>
+        <item>Kenyan Shilling</item>
+    </string-array>
+
+    <string-array
+        name="btc_currencies">
+        <item>Ethereum</item>
+        <item>Bitcoin</item>
+        <item>USA Dollar</item>
+        <item>Australian Dollar</item>
+        <item>Canadian Dollar</item>
+        <item>Swiss Franc</item>
+        <item>Japanese Yen</item>
+        <item>New Zealand Dollar</item>
+        <item>Euro</item>
+        <item>Great Britain Pound</item>
+        <item>Swedish Krona</item>
+        <item>Singapore Dollar</item>
+        <item>Hong Kong Dollar</item>
+        <item>Mexican Peso</item>
+        <item>Russian Ruble</item>
+        <item>South Africa Rand</item>
+        <item>Chinese Offshore Yuan</item>
+        <item>Chinese Yuan</item>
+        <item>Indian Rupee</item>
+        <item>Naira</item>
+        <item>Kenyan Shilling</item>
+    </string-array>
+
+    <string-array
+        name="symbols_btc">
+        <item>ETH</item>
+        <item>USD</item>
+        <item>AUD</item>
+        <item>CAD</item>
+        <item>CHF</item>
+        <item>JPY</item>
+        <item>NZD</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>SEK</item>
+        <item>SGD</item>
+        <item>HKD</item>
+        <item>MXN</item>
+        <item>RUB</item>
+        <item>ZAR</item>
+        <item>CNH</item>
+        <item>CNY</item>
+        <item>INR</item>
+        <item>NGN</item>
+        <item>KES</item>
+    </string-array>
+
+    <string-array
+        name="symbols_eth">
+        <item>BTC</item>
+        <item>USD</item>
+        <item>AUD</item>
+        <item>CAD</item>
+        <item>CHF</item>
+        <item>JPY</item>
+        <item>NZD</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>SEK</item>
+        <item>SGD</item>
+        <item>HKD</item>
+        <item>MXN</item>
+        <item>RUB</item>
+        <item>ZAR</item>
+        <item>CNH</item>
+        <item>CNY</item>
+        <item>INR</item>
+        <item>NGN</item>
+        <item>KES</item>
+    </string-array>
+</resources>
